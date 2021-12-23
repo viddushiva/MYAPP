@@ -1,0 +1,73 @@
+body{
+    background-image: linear-gradient(aqua, pink,lightblue,lightgreen);
+
+}
+
+
+.one{
+    text-align: center;
+}
+
+
+.first{
+    background-color: lightseagreen;
+    border-radius: 20px;
+    width: 20%;
+    padding: 1%;
+    margin-left: 1%;
+    padding: 2%;
+
+    
+    margin-top: 5%;
+    margin-bottom: 8%;
+    font-weight: 25px;
+    display: inline;
+    border: 2px;
+
+
+}
+.biu{
+    background-color: aqua;
+    border-radius: 20px;
+    width: 20%;
+    padding: 2%;
+    margin-left: 25%;
+    margin-bottom: 8%;
+  
+    font-weight: 25px;
+    /* display: inline;   */
+    border: 2px;
+
+}
+.dummy{
+    border-radius: 20px;
+    width: 30%;
+    font-size: 20px;
+    margin-top: 0%;
+    border: 2px solid;
+    padding: 1%;
+    margin-left: 10%;
+    text-align: center;
+    height: 35vh;
+    
+  float: left;
+  /* clear: right; */
+
+
+    
+}
+.dummyc{
+    border-radius: 20px;
+    width: 30%;
+    font-size: 20px;
+    border: 2px solid;
+    text-align: center;
+    height: 35vh;
+    position: absolute;
+    float: right;   
+    top: 48%;
+    right: 8%;
+    padding: 1%;
+
+
+}
